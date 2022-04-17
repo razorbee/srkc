@@ -18,6 +18,8 @@
  * @package WordPress
  */
 
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', '/Applications/MAMP/htdocs/srkc/wp-content/plugins/wp-super-cache/' );
 define( 'WP_HOME', 'http://localhost:8888/srkc' );
 define( 'WP_SITEURL', 'http://localhost:8888/srkc/' );
 
