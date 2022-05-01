@@ -19,19 +19,19 @@
  */
 
 define('WP_CACHE', true);
-define( 'WPCACHEHOME', '/Applications/MAMP/htdocs/srkc/wp-content/plugins/wp-super-cache/' );
-define( 'WP_HOME', 'http://localhost:8888/srkc' );
-define( 'WP_SITEURL', 'http://localhost:8888/srkc/' );
+define( 'WPCACHEHOME', '/home2/shyama/public_html/wp-content/plugins/wp-super-cache/' );
+define( 'WP_HOME', 'https://srkc.co' );
+define( 'WP_SITEURL', 'https://srkc.co' );
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'srkc' );
+define( 'DB_NAME', 'shyama_srkc' );
 
 /** MySQL database username */
-define( 'DB_USER', 'wolfe' );
+define( 'DB_USER', 'shyama_srkc' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'wolfe@123' );
+define( 'DB_PASSWORD', 'razorbee@123' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
