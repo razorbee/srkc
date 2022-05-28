@@ -1,0 +1,4 @@
+[07-May-2022 09:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/shyama/public_html/wp-includes/rss-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-includes/rss-functions.php on line 9

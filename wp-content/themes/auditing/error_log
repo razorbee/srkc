@@ -1,0 +1,32 @@
+[06-May-2022 17:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[07-May-2022 09:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[21-May-2022 09:04:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[23-May-2022 14:01:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[26-May-2022 20:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[27-May-2022 13:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[27-May-2022 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1
+[27-May-2022 13:35:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/shyama/public_html/wp-content/themes/auditing/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/shyama/public_html/wp-content/themes/auditing/index.php on line 1

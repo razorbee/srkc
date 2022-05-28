@@ -1,0 +1,113 @@
+[23-May-2022 02:26:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/shyama/public_html/wp-content/plugins/unyson/framework/helpers/class-fw-session.php on line 13
+[23-May-2022 02:26:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/shyama/public_html/wp-content/plugins/unyson/framework/helpers/class-fw-session.php on line 13
+[23-May-2022 02:26:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/shyama/public_html/wp-content/plugins/unyson/framework/helpers/class-fw-session.php on line 13
+[27-May-2022 14:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:18:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:19:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
+[27-May-2022 14:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function vc_build_link() in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php:1738
+Stack trace:
+#0 /home2/shyama/public_html/wp-includes/shortcodes.php(343): DTCoreShortcodesDefination->dt_sc_url(Array, '', 'dt_sc_url')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home2/shyama/public_html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(dt_sc_...', 'do_shortcode_ta...', '[vc_column el_c...')
+#3 /home2/shyama/public_html/wp-content/themes/auditing/header.php(50): do_shortcode('[vc_column el_c...')
+#4 /home2/shyama/public_html/wp-includes/template.php(723): require_once('/home2/shyama/p...')
+#5 /home2/shyama/public_html/wp-includes/template.php(672): load_template('/home2/shyama/p...', true)
+#6 /home2/shyama/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#7 /home2/shyama/public_html/wp-content/themes/auditing/page.php(1): get_header()
+#8 /home2/shyama/public_html/wp-includes in /home2/shyama/public_html/wp-content/plugins/designthemes-core-features/shortcodes/shortcodes.php on line 1738
